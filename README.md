@@ -1,2 +1,3 @@
 # hello-world
 my first repository
+many many new things to learn here. each time i think that there is no way i even know what i am reading, i simply keep reading and eventually i get to a spot where something makes a little bit of sesnse. for example, reading the bit about the differences between html and c++ and ruby and all of a sudden it makes sense to me. brilliant bit of wisdom about how the earlier simpler languages are closer to binarycode and the more recent languages are much more like the english we speak....they each have their places and strengths and weaknessess. wow. wish i had started studying this stuff sooner.
